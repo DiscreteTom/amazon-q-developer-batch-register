@@ -1,4 +1,7 @@
-# Batch Register Amazon Q Developer Pro Account For Kiro
+# Batch Register Amazon Q Developer Pro Account
+
+> [!IMPORTANT]
+> Registering Amazon Q Developer Pro is no longer the recommended way to use Kiro. Please [subscript to Kiro's enterprise billing](https://kiro.dev/enterprise/) directly.
 
 This script allows you to create multiple users in AWS IAM Identity Center from a CSV file and automatically subscribe them to Amazon Q Developer.
 
